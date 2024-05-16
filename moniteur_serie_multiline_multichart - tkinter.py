@@ -1,3 +1,7 @@
+
+#en cours de codage, intégration des graphiques matplotlib dans une fenêtre tkinter
+
+
 import time
 import serial
 import matplotlib.pyplot as plt
